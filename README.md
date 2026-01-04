@@ -1,4 +1,4 @@
-## 🖼️ Captures d’écran du TP
+## Captures d’écran du TP
 
 ### 🔹 Build du Frontend
 ![Build Frontend](24.png)
